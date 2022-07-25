@@ -1,0 +1,88 @@
+.bg-hot-pink {
+    background-color: rgba(227, 85, 78, 1.0);
+}
+
+.bg-50-gray {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: rgba(255, 255, 255, 1.0);
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    color:rgba(255, 255, 255, 1.0);
+    font-weight: 600;
+}
+
+.parallax-1 {
+    /* The image used */
+    background-image: url("../img/parallax-road-trip-crop.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-2 {
+    /* The image used */
+    background-image: url("../img/parallax-road-trip-two.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-3 {
+    /* The image used */
+    background-image: url("../img/parallax-road-trip-three.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-4 {
+    /* The image used */
+    background-image: url("../img/parallax-road-trip-four.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-5 {
+    /* The image used */
+    background-image: url("../img/parallax-road-trip-five.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
